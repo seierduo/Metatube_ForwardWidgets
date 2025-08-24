@@ -39,6 +39,7 @@ Jav_MetaTube Widget 是 ForwardWidgets 项目的一个组件，用于获取各�
 ### 2. 配置服务器地址
 
 ⚠️ **重要**: 导入后必须先配置MetaTube服务器地址才能正常使用
+MetaTube后端 [docker部署](https://metatube-community.github.io/wiki/server-deployment/)
 
 1. 在 Forward 应用中找到 "Jav_MetaTube" Widget
 2. 在 "服务器地址" 字段输入您的MetaTube服务器地址
