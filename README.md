@@ -5,10 +5,11 @@ This is a MetaTube-based ForwardWidgets tool for getting the latest Japanese adu
 ![MetaTube Widget](https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/main/icon.png)
 
 欢迎使用推荐码: JAV
+使用推荐码可以进群使用私人metatube地址 telegram: https://t.me/javmetatube
 
 ## 简介
 
-MetaTube Widget 是 ForwardWidgets 项目的一个组件，用于获取各大AV公司的影片数据。
+Jav_MetaTube Widget 是 ForwardWidgets 项目的一个组件，用于获取各大AV公司的影片数据。
 
 ## 功能特点
 
@@ -48,3 +49,50 @@ MetaTube Widget 是 ForwardWidgets 项目的一个组件，用于获取各大AV�
 2. **选择公司**: 从下拉菜单选择要查看的AV公司
 3. **浏览影片**: 使用页码切换浏览不同页面的影片
 4. **查看详情**: 点击影片获取详细信息
+
+Welcome to use the referral code: **JAV**  
+Using the referral code allows you to join the group and access the private MetaTube server address.  
+Telegram: [https://t.me/javmetatube](https://t.me/javmetatube)  
+
+## Introduction  
+
+**Jav_MetaTube Widget** is a component of the ForwardWidgets project, designed to fetch video data from major Japanese AV companies.  
+
+## Features  
+
+- 🎬 Support for multiple well-known Japanese AV companies  
+- 🔧 **Manual server address configuration**  
+- 📄 Paginated browsing of video lists  
+- 🖼️ Display of video covers  
+
+## Supported Companies  
+
+| Company       | Code  | Description                           |
+|---------------|-------|---------------------------------------|
+| IdeaPocket    | IPZZ  | Famous Japanese AV production company |
+| S1 No.1 Style | SONE  | Premium AV production brand           |
+| SOD Create    | START | Creative on-demand AV company         |
+| Prestige      | ABF   | Established AV production company     |
+| FALENO        | FNS   | Emerging high-quality AV brand        |  
+
+## Installation & Usage  
+
+### 1. Import into Forward App  
+
+1. Import the `Jav_Metatube.fwd` file into the Forward application.  
+   Link: [Jav_Metatube.fwd](https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/refs/heads/main/Jav_Metatube.fwd)  
+
+### 2. Configure Server Address  
+
+⚠️ **Important**: After importing, you must configure the MetaTube server address before use.  
+
+1. Open the "Jav_MetaTube" Widget in the Forward app.  
+2. Enter your MetaTube server address in the "Server Address" field.  
+   - Example format: `http://your-server:8080`  
+
+### 3. Usage Steps  
+
+1. **Configure Server**: Enter a valid MetaTube server address.  
+2. **Select Company**: Choose the AV company from the dropdown menu.  
+3. **Browse Videos**: Navigate through pages to view different video lists.  
+4. **View Details**: Click on a video to access detailed information.  
