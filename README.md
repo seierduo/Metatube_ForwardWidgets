@@ -4,8 +4,9 @@ This is a MetaTube-based ForwardWidgets tool for getting the latest Japanese adu
 
 ![MetaTube Widget](https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/main/icon.png)
 
-欢迎使用推荐码: JAV
-使用推荐码可以进群使用私人metatube地址 telegram: https://t.me/javmetatube
+欢迎使用推荐码: JAV。
+使用推荐码可以进群使用私人metatube地址 
+Telegram: [https://t.me/javmetatube](https://t.me/javmetatube) 
 
 ## 简介
 
