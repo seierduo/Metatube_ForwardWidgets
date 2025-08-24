@@ -5,7 +5,6 @@ WidgetMetadata = {
   requiredVersion: "0.0.1",
   description: "获取各大AV公司的影片数据 - 需手动配置服务器地址",
   author: "seierduo",
-  site: "",
   detailCacheDuration: 3600,
   modules: [
     {
