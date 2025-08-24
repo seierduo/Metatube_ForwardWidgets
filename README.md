@@ -2,7 +2,7 @@
 This is a MetaTube-based ForwardWidgets tool for getting the latest Japanese adult video information.
 # Jav_MetaTube Widget
 
-<img src="https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/main/icon.png" alt="MetaTube Widget" width="64"/>
+<img src="https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/main/icon.png" alt="MetaTube Widget" width="128"/>
 
 欢迎使用推荐码: JAV。
 使用推荐码可以进群使用私人metatube地址 
