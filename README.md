@@ -21,13 +21,13 @@ Jav_MetaTube Widget 是 ForwardWidgets 项目的一个组件，用于获取各�
 
 ## 支持的公司
 
-| 公司 | 代码 | 简介 |
-|------|------|------|
-| IdeaPocket | IPZZ | 日本知名AV制作公司 |
-| S1 No.1 Style | SONE | 高端AV制作品牌 |
-| SOD Create | START | 软体点播创作公司 |
-| Prestige | ABF | 老牌AV制作公司 |
-| FALENO | FNS | 新兴高质量AV品牌 |
+| 公司 | 代码 | 
+|------|------|
+| IdeaPocket | IPZZ |
+| S1 No.1 Style | SONE | 
+| SOD Create | START | 
+| Prestige | ABF | 
+| FALENO | FNS | 
 
 ## 安装使用
 
@@ -69,13 +69,13 @@ Telegram: [https://t.me/javmetatube](https://t.me/javmetatube)
 
 ## Supported Companies  
 
-| Company       | Code  | Description                           |
-|---------------|-------|---------------------------------------|
-| IdeaPocket    | IPZZ  | Famous Japanese AV production company |
-| S1 No.1 Style | SONE  | Premium AV production brand           |
-| SOD Create    | START | Creative on-demand AV company         |
-| Prestige      | ABF   | Established AV production company     |
-| FALENO        | FNS   | Emerging high-quality AV brand        |  
+| Company       | Code  | 
+|---------------|-------|
+| IdeaPocket    | IPZZ  | 
+| S1 No.1 Style | SONE  | 
+| SOD Create    | START | 
+| Prestige      | ABF   | 
+| FALENO        | FNS   |  
 
 ## Installation & Usage  
 
