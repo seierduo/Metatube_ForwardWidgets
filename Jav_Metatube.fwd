@@ -1,0 +1,16 @@
+{
+  "title": "Jav MetaTube",
+  "description": "MetaTube widget with server configuration",
+  "icon": "https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/main/icon.png",
+  "widgets": [
+    {
+      "id": "forward.metatube.manual",
+      "title": "Jav_MetaTube",
+      "description": "获取各大AV公司的最新影片数据 - 需手动配置服务器地址",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "seierduo",
+      "url": "https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/refs/heads/main/Widgets/Metatube.js"
+    }
+  ]
+}
