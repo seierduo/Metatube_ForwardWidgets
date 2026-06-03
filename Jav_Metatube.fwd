@@ -11,6 +11,15 @@
       "version": "1.0.0",
       "author": "seierduo",
       "url": "https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/refs/heads/main/Widgets/Metatube.js"
+    },
+    {
+      "id": "forward.fanza",
+      "title": "FANZA",
+      "description": "Directly fetch FANZA company movie data with actors, directors, codes, covers, and trailers",
+      "requiredVersion": "0.0.1",
+      "version": "3.0.0",
+      "author": "Sheldon",
+      "url": "https://raw.githubusercontent.com/seierduo/Metatube_ForwardWidgets/refs/heads/main/Widgets/fanza.js"
     }
   ]
 }
